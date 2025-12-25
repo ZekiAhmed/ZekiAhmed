@@ -1,4 +1,4 @@
-## 👋 Intro
+## 👋 About Me
 
 Hi, I’m a **self-taught software developer** based in **Ethiopia 🇪🇹**.  
 I mostly work as a **Full-Stack Developer**, building modern, scalable web applications.  
