@@ -1,7 +1,7 @@
 ## 👋 About Me
 
 Hi, I’m a **self-taught software developer** based in **Ethiopia 🇪🇹**.  
-I mostly work as a **Full-Stack Developer**, building modern, scalable web applications.  
+I mostly work as a **Full-Stack Developer**, building modern web applications.  
 This GitHub profile is where I share my **personal projects**, **experiments**, and the things I’m **currently working on**.
 
 ---
@@ -12,7 +12,7 @@ This GitHub profile is where I share my **personal projects**, **experiments**, 
 - **Styling & UI:** Tailwind CSS, shadcn/ui  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
-- **General:** Full-stack web development, clean architecture, scalable systems  
+- **General:** Full-stack web development
 
 ---
 
