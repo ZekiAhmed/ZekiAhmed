@@ -12,14 +12,14 @@ This GitHub profile is where I share my **personal projects**, **experiments**, 
 - **Styling & UI:** Tailwind CSS, shadcn/ui  
 - **Backend:** Node.js, Express  
 - **Databases:** MongoDB, PostgreSQL  
-- **General:** Full-stack web development
+- **General:** Full-stack web development, clean architecture, scalable systems  
 
 ---
 
-## 📖 About Me
+## 🎯 Hobbies & Interests
 
-Outside of coding, I enjoy **reading biographies** and **watching history-related content**.  
-I’m deeply interested in learning how great people think, make decisions, and build long-lasting impact.
+When I’m not coding, I enjoy **reading biographies** and **watching history-related content**.  
+I like learning from the lives of influential people, understanding how they think, and exploring how past events shape the present.
 
 ---
 
